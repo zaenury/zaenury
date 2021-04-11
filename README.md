@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## About me
-- 🔭 I’m currently working on my self
+- 🔭 I'm currently struggling to improve my skills and keep trying to learn something new. I hear and I forget; I see and I remember; I do and I understand - Confucius
 - 🌱 I’m currently learning flutter
 - 👯 I’m looking to collaborate on some projects
 - 📫 How to reach me: [linked in](https://www.linkedin.com/in/zaenuryadhiim/) or [WhatsApp](https://api.whatsapp.com/send?phone=6287700993776)
