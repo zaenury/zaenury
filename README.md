@@ -11,5 +11,6 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zaenury&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zaenury&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zaenury&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zaenury&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zaenury&theme=github_dark)
