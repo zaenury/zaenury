@@ -11,7 +11,7 @@
   - LinkedIn (<a href="https://www.linkedin.com/in/zaenuryadhiim/" target="_blank">Zaenury Adhiim Musyafa'</a>)
   - Instagram (<a href="https://www.instagram.com/zaenuryadhiim/" target="_blank">Zaenury Adhiim</a>)
   - Whatsapp (<a href="https://api.whatsapp.com/send?phone=6287700993776" target="_blank">Contact Me</a>)
-  - Discord ()
+  - Discord (Zentzy#4919)
 - Portofolio (<a href="https://zaenuryadhiim.com/" target="_blank">Let's go!</a>)
 
 ## Github Stats
