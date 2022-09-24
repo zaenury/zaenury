@@ -1,11 +1,18 @@
-### Hi there 👋
+<h1>
+  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif?raw=true" width="30"> Hellow
+</h1>
 
-## About me
-- 🔭 I'm currently struggling to improve my skills and keep trying to learn something new. I hear and I forget; I see and I remember; I do and I understand - Confucius
-- 🌱 I’m currently learning Dart, Javascript & Typescript.
-- 👯 I’m looking to collaborate on some projects, especially in UI UX design
-- 📫 How to reach me: [linked in](https://www.linkedin.com/in/zaenuryadhiim/) or [WhatsApp](https://api.whatsapp.com/send?phone=6287700993776)
-- ⚡ Fun fact: i like to play chess, and currently my ELO Rating ± 1600 - 1700 😄. Add me on [chess.com](https://www.chess.com/): zaenuryadhiim
+![](https://komarev.com/ghpvc/?username=zaenury&color=blue)
+
+<p>My name is <b><i>Zaenury Adhiim Musyafa'</i></b>, a multidisciplinary designer focused on telling my clients stories visually, through fun and meaningful experiences. I specialize in website and mobile user interface with some experience from front end developer I've worked on the back end also on several projects</p>
+
+- 📫 How to reach me: 
+  - Email (adhiimzaenury@gmail.com)
+  - LinkedIn (<a href="https://www.linkedin.com/in/zaenuryadhiim/" target="_blank">Zaenury Adhiim Musyafa'</a>)
+  - Instagram (<a href="https://www.instagram.com/zaenuryadhiim/" target="_blank">Zaenury Adhiim</a>)
+  - Whatsapp (<a href="https://api.whatsapp.com/send?phone=6287700993776" target="_blank">Contact Me</a>)
+  - Discord ()
+- Portofolio (<a href="https://zaenuryadhiim.com/" target="_blank">Let's go!</a>)
 
 ## Github Stats
 
